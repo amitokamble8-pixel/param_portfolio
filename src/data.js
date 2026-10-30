@@ -57,7 +57,7 @@ export const EXPERIENCE = [
   {
     slug: "itcg-solutions-software-engineering-intern",
     role: "Software Engineering Intern",
-    org: "ITCG Solutions",
+    org: "ITCG Pvt. Ltd.",
     logo: "/logos/itcg.png", // TODO: add logo file or replace
     location: "", // TODO: not specified in resume
     dates: "2026",
